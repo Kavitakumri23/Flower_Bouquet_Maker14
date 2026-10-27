@@ -1,0 +1,22 @@
+==========================================
+             BLOOM & BLISS
+              ORDER RECEIPT
+==========================================
+Order ID: BB20261026205548
+Date: 26-10-2026 08:55 PM
+Customer: Kavita Kumari
+Phone: 9386207751
+Delivery: Home Delivery
+Address: Chandigarh university
+------------------------------------------
+FLOWERS:
+Tulip x 3 = Rs. 180
+Sunflower x 1 = Rs. 70
+Wrapping (Jute Wrap): Rs. 70
+ADD-ONS:
+Chocolates: Rs. 80
+Greeting: Wishing you a beautiful day!
+------------------------------------------
+GRAND TOTAL: Rs. 400
+==========================================
+Thank you for choosing Bloom & Bliss!

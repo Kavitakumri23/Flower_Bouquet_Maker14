@@ -1,0 +1,24 @@
+==========================================
+             BLOOM & BLISS
+              ORDER RECEIPT
+==========================================
+Order ID: BB20261024223037
+Date: 24-10-2026 10:30 PM
+Customer: arpita birla
+Phone: 8982118804
+Delivery: Home Delivery
+Address: indore
+------------------------------------------
+FLOWERS:
+Rose x 1 = Rs. 50
+Tulip x 1 = Rs. 60
+Sunflower x 1 = Rs. 70
+Lily x 2 = Rs. 160
+Wrapping (Mesh Wrap): Rs. 60
+ADD-ONS:
+Chocolates: Rs. 80
+Greeting: Wishing you a beautiful day!
+------------------------------------------
+GRAND TOTAL: Rs. 480
+==========================================
+Thank you for choosing Bloom & Bliss!

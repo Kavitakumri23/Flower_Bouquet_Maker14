@@ -1,0 +1,21 @@
+BLOOM & BLISS - ORDER RECEIPT
+==================================
+Order ID: BB20261023225836
+Date: 23-10-2026 10:58 PM
+Customer: Kavita Kumari
+----------------------------------
+Flowers:
+  Rose             x 3  = Rs.90
+  Tulip            x 3  = Rs.120
+  Sunflower        x 5  = Rs.175
+  Lily             x 1  = Rs.50
+  Daisy            x 4  = Rs.80
+  Orchid           x 1  = Rs.60
+----------------------------------
+Flower subtotal: Rs.575
+Classic Paper: Rs.20
+Home Delivery: Rs.40
+TOTAL: Rs.635
+Message card: Happy Birthday
+
+Thank you for choosing Bloom & Bliss!

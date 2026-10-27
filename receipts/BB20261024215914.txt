@@ -1,0 +1,23 @@
+==========================================
+             BLOOM & BLISS
+              ORDER RECEIPT
+==========================================
+Order ID: BB20261024215914
+Date: 24-10-2026 09:59 PM
+Customer: prabhjot kaur
+Phone: 9837767476
+Delivery: Home Delivery
+Address: amritsir
+------------------------------------------
+FLOWERS:
+Tulip x 1 = Rs. 60
+Sunflower x 1 = Rs. 70
+Wrapping (Classic Paper): Rs. 50
+ADD-ONS:
+Greeting Card: Rs. 30
+Chocolates: Rs. 80
+Greeting: Wishing you a beautiful day!
+------------------------------------------
+GRAND TOTAL: Rs. 290
+==========================================
+Thank you for choosing Bloom & Bliss!

@@ -1,0 +1,23 @@
+==========================================
+             BLOOM & BLISS
+              ORDER RECEIPT
+==========================================
+Order ID: BB20261027120931
+Date: 27-10-2026 12:09 PM
+Customer: Kavi Roy
+Phone: 9334648710
+Delivery: Home Delivery
+Address: Chandigarh university
+------------------------------------------
+FLOWERS:
+Rose x 2 = Rs. 100
+Sunflower x 1 = Rs. 70
+Wrapping (Mesh Wrap): Rs. 60
+ADD-ONS:
+Chocolates: Rs. 80
+LED Lights: Rs. 50
+Greeting: Wishing you a beautiful day!
+------------------------------------------
+GRAND TOTAL: Rs. 360
+==========================================
+Thank you for choosing Bloom & Bliss!

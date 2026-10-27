@@ -1,0 +1,65 @@
+FLOWER BOUQUET MAKER — PYTHON MINI PROJECT REPORT
+
+Submitted By: Kavita Kumari
+Course: MCA (AI/ML)
+Language: Python
+GUI Library: Tkinter
+
+1. INTRODUCTION
+Flower Bouquet Maker is a desktop application for creating a flower bouquet by selecting flower types, quantities, wrapping style, delivery type, and an optional message card. It calculates the price and saves an order receipt.
+
+2. OBJECTIVES
+• Build a simple Python GUI.
+• Calculate bouquet prices automatically.
+• Practise Python data structures and functions.
+• Demonstrate file handling by saving receipts.
+
+3. TECHNOLOGIES USED
+• Python 3
+• Tkinter for the graphical user interface
+• datetime for date and order ID
+• File handling for receipt generation
+
+4. FEATURES
+• Flower selection and quantity input
+• Three wrapping options
+• Optional message card
+• Pickup or home delivery
+• Automatic total calculation
+• Receipt displayed on screen and saved locally
+• Reset form
+
+5. WORKING
+The user selects flowers and quantities, then chooses wrapping and delivery options. The application calculates the flower subtotal, wrapping charge, and delivery charge. When the user places an order, a receipt is displayed and saved as a text file in the receipts folder.
+
+6. PRICE CALCULATION
+Flower subtotal = Sum of (price per flower × quantity)
+Total bill = Flower subtotal + wrapping charge + delivery charge
+Home delivery charge = Rs.40; pickup charge = Rs.0.
+
+7. PYTHON CONCEPTS
+• Dictionary: stores flower and wrapping prices.
+• Class and methods: organise the application.
+• Loops: display flower options and receipt items.
+• Conditional statements: validate inputs and calculate charges.
+• Tkinter widgets: create the GUI.
+• File handling: save order receipts.
+• Exception handling: handle invalid quantities and save errors.
+
+8. TESTING
+Test 1: Calculate without selecting flowers. Expected: warning message.
+Test 2: 2 Roses (Rs.30 each) + Classic Paper (Rs.20) + Pickup. Expected total: Rs.80.
+Test 3: 1 Lily (Rs.50) + Premium Wrap (Rs.50) + Home Delivery (Rs.40). Expected total: Rs.140.
+Test 4: Place an order. Expected: receipt appears and is saved in the receipts folder.
+
+9. LIMITATIONS
+This mini project does not use a database, online payment, or a real delivery service. Receipts are stored locally.
+
+10. FUTURE SCOPE
+• Add a database for customer and order records.
+• Add flower images and bouquet previews.
+• Add login and admin features.
+• Add online payment and order tracking.
+
+11. CONCLUSION
+Flower Bouquet Maker demonstrates how Python can be used to build a small GUI-based ordering application. It combines input handling, price calculation, event-driven programming, and file handling.
